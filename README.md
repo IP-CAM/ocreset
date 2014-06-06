@@ -11,15 +11,7 @@ Instructions for use
 --------------------
 
 1. Either download the ocreset.php file and save it in your store's directory (The same one as the .htaccess/.htaccess.txt file)
-2. Run the file through your browser by visiting your site's store address followed by ocreset.php, so for a localhost in a directory called shop it would be
-
-    http://localhost/shop/ocreset.php
-
-- for your domain in the root directory just use
-
-    http://www.yoursite.com/ocreset.php
-
-
+2. Run the file through your browser by visiting your site's store address followed by ocreset.php, so for a localhost in a directory called shop it would be http://localhost/shop/ocreset.php  for your domain in the root directory just use  http://www.yoursite.com/ocreset.php
 3. You should now see a screen with a dropdown that has a list of your site administrators
 4. Select your administrator name you want to reset, type your password in the password field and click "Change Password"
 5. If all went well a message should appear at the top of the screen with
