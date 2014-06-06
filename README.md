@@ -8,7 +8,7 @@ This is a little app that hopefully will be useful when people get stuck. It's i
 I have just made a few tweaks to allow resetting OC passwords in latest versions of open cart. How open cart handles passwords has changed since JAY6390 has written this tool. they have introduced SALT and changed the hashing technique.
 
 Instructions for use
-====================
+--------------------
 
 1. Either download the ocreset.php file and save it in your store's directory (The same one as the .htaccess/.htaccess.txt file)
 2. Run the file through your browser by visiting your site's store address followed by ocreset.php, so for a localhost in a directory called shop it would be
@@ -26,9 +26,9 @@ Instructions for use
 
     User `admin` updated successfully!
 
-where admin is the name of the user you've just reset
+    where admin is the name of the user you've just reset
 
 6. Once you've reset your password MAKE SURE YOU DELETE THE OCRESET.PHP FILE from your server, to avoid anyone gaining unauthorised access to your store
 
 MAKE SURE YOU DELETE THE OCRESET.PHP FILE
-=========================================
+-----------------------------------------
