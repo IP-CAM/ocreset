@@ -2,7 +2,7 @@ ocreset
 =======
 
 Open Cart Administrator Password Reset tool.
-
+--------------------------------------------
 This is a little app that hopefully will be useful when people get stuck. It's inspired by wpreset file you can find amoung my repositories. Its orignally made by opencart forum user JAY6390. his version can be found here. http://forum.opencart.com/viewtopic.php?f=23&t=15626
 
 I have just made a few tweaks to allow resetting OC passwords in latest versions of open cart. How open cart handles passwords has changed since JAY6390 has written this tool. they have introduced SALT and changed the hashing technique.
